@@ -1,0 +1,461 @@
+WELGOS,MALE,FEMALE,DIF
+"""20000 Foot Viewer""",0.0,0.0,0.0
+ADMIT / Decisions & beliefs,3.0,4.0,-1.0
+ADMIT / True self & vulnerability,2.0,2.0,0.0
+ADMIT / accountability,5.0,8.0,-3.0
+ADMIT / healing,3.0,3.0,0.0
+ADMIT / honesty,5.0,3.0,2.0
+Abstainer Amazer,3.0,5.0,-2.0
+Addiction AMF’r,6.0,8.0,-2.0
+Adversity Adventurer,0.0,4.0,-4.0
+Adversity Avenger,1.0,3.0,-2.0
+Adversity Ninja,1.0,2.0,-1.0
+Agape ASAP’r,0.0,0.0,0.0
+Aggravation Vacationer,0.0,2.0,-2.0
+Alienation Alleviationator,0.0,1.0,-1.0
+Almighty Alchemizer,0.0,6.0,-6.0
+Amender Amen’r,0.0,1.0,-1.0
+Amender Befriender,3.0,3.0,0.0
+Anger Gangster,1.0,1.0,0.0
+Anger Ionizer,0.0,0.0,0.0
+Anger Rinser,0.0,0.0,0.0
+Anger Vacationer,0.0,0.0,0.0
+Anger X’r,0.0,0.0,0.0
+Angerexia,1.0,1.0,0.0
+Anxiety Elixir,0.0,0.0,0.0
+Anxiety Exiler,1.0,1.0,0.0
+Anxiety X-terminator,0.0,1.0,-1.0
+Apology Amen’r,1.0,0.0,1.0
+Apology Automator,1.0,0.0,1.0
+Arrogance Arrestor,3.0,0.0,3.0
+Assumption Assassinator,0.0,0.0,0.0
+Attitude Alchemizer,3.0,1.0,2.0
+Autopilot Auto X’r,3.0,1.0,2.0
+Avalanche Avenger,1.0,1.0,0.0
+Baby Step Embracer,4.0,4.0,0.0
+Bad Habit Butcher,3.0,3.0,0.0
+Bad Influence Bulldozer,2.0,5.0,-3.0
+Bad Influence Butcher,2.0,3.0,-1.0
+Barefoot Believer,1.0,1.0,0.0
+Behavior Savior,0.0,5.0,-5.0
+Belief Superseder,2.0,6.0,-4.0
+Beloved BFF’r,1.0,1.0,0.0
+Bipolar Coaster,3.0,0.0,3.0
+Bipolar Patroller,1.0,1.0,0.0
+Bitter Quitter,3.0,0.0,3.0
+Bitter Truth Taster,6.0,10.0,-4.0
+Bittersweet Greeter,1.0,0.0,1.0
+Black Hole Blesser,5.0,0.0,5.0
+Blame Changer,2.0,0.0,2.0
+Blamenesia,1.0,2.0,-1.0
+Blemish Cherisher,2.0,0.0,2.0
+Blemishes TBH,0.0,0.0,0.0
+Blessings Bather,0.0,1.0,-1.0
+Blessings Detector,1.0,1.0,0.0
+Bliss Kisser,2.0,3.0,-1.0
+Block Climber,1.0,0.0,1.0
+Blues Buster,0.0,0.0,0.0
+Blunder Blesser,2.0,3.0,-1.0
+Brain Unchainer,5.0,4.0,1.0
+Braverade,4.0,2.0,2.0
+Breakthrough Brewer,0.0,1.0,-1.0
+Brick Wall Bulldozer,1.0,0.0,1.0
+Brick Wall Snowballer,0.0,0.0,0.0
+Bruise Controller,0.0,0.0,0.0
+CLOSET CONFESSOR / Admit addiction,7.0,4.0,3.0
+CLOSET CONFESSOR / Face truths,9.0,4.0,5.0
+CLOSET CONFESSOR / Inventory,4.0,5.0,-1.0
+CLOSET CONFESSOR / Share & support,4.0,6.0,-2.0
+COMMITMENT knitter / above all else,5.0,0.0,5.0
+COMMITMENT knitter / abstinence confidence,3.0,2.0,1.0
+COMMITMENT knitter / celebrate,1.0,1.0,0.0
+COMMITMENT knitter / laziness & effort,5.0,4.0,1.0
+COMMITMENT knitter / to others,2.0,0.0,2.0
+Can’t Cutter,0.0,1.0,-1.0
+Challenge Ninja,4.0,6.0,-2.0
+Cold Turkey Taster,5.0,0.0,5.0
+Compassion Moonlighter,1.0,0.0,1.0
+Compassion Weaver,2.0,1.0,1.0
+Compulsion KO’r,5.0,7.0,-2.0
+Confidence Caffeinator,2.0,4.0,-2.0
+Confidence Colonizer,1.0,5.0,-4.0
+Conflict Connoisseur,1.0,3.0,-2.0
+Conflict Evictor,0.0,0.0,0.0
+Control Unfreaker,0.0,0.0,0.0
+Controller Coaster,3.0,2.0,1.0
+Cosmic Ray Receiver,0.0,3.0,-3.0
+Courage Commander,2.0,4.0,-2.0
+Craver Saver / Braver,7.0,5.0,2.0
+Craverade,1.0,3.0,-2.0
+Cravings 101'r,2.0,3.0,-1.0
+Crisis Catapulter,0.0,4.0,-4.0
+Crisis Cracker,1.0,2.0,-1.0
+Daily Daisy Spotter,1.0,0.0,1.0
+Damage Detective,2.0,2.0,0.0
+Damage Doctor,9.0,0.0,9.0
+Danger Ranger,2.0,2.0,0.0
+Dead End Defier ,6.0,3.0,3.0
+Dead End Deluder,6.0,1.0,5.0
+Deep Down Diver,4.0,8.0,-4.0
+Deluge Refuge,0.0,2.0,-2.0
+Delusion Detector,10.0,0.0,10.0
+Demon Dethroner ,3.0,2.0,1.0
+Demon Doctor,0.0,1.0,-1.0
+Demon Duper,0.0,1.0,-1.0
+Demon Greeter,0.0,5.0,-5.0
+Denial Denyer,8.0,1.0,7.0
+Depression Debater,0.0,0.0,0.0
+Depression Debugger,2.0,0.0,2.0
+Depression Decrypter,2.0,0.0,2.0
+Depression Dethroner,0.0,1.0,-1.0
+Depression X’r,0.0,2.0,-2.0
+Despair Doctor,1.0,0.0,1.0
+Desperation Disputer,0.0,0.0,0.0
+Destiny Autopiloter,0.0,0.0,0.0
+Destiny Diviner,1.0,1.0,0.0
+Dire Extinguisher,1.0,3.0,-2.0
+Disaster Blaster,0.0,1.0,-1.0
+Disaster Master,0.0,1.0,-1.0
+Distract-shunner,1.0,0.0,1.0
+Distraction Assassin,1.0,0.0,1.0
+Divine Designer,0.0,2.0,-2.0
+Double Wronger,1.0,0.0,1.0
+Doubt Deserter,0.0,1.0,-1.0
+Downer Frowner,0.0,2.0,-2.0
+Ego Eavesdropper,1.0,0.0,1.0
+Ego Eclipser,6.0,0.0,6.0
+Ego Excuser,1.0,0.0,1.0
+Ego Puffer,2.0,1.0,1.0
+Ego X’r,2.0,0.0,2.0
+Emotions Auditor,1.0,3.0,-2.0
+Emotions Elixir,3.0,4.0,-1.0
+Emotions Emancipator,2.0,1.0,1.0
+Emotions Engineer,3.0,0.0,3.0
+Emotions X-rayer,0.0,2.0,-2.0
+Endorphin Flooder,1.0,2.0,-1.0
+Ever Evolving Flower,4.0,5.0,-1.0
+Excrement Expector,1.0,3.0,-2.0
+Excuse Exterminator,3.0,2.0,1.0
+Excuse Nuker,3.0,0.0,3.0
+Excuse X’r,1.0,2.0,-1.0
+Faith Factory,0.0,1.0,-1.0
+Faith Fertilizer,0.0,0.0,0.0
+Faith Flooder,1.0,4.0,-3.0
+Fault Vaulter,0.0,0.0,0.0
+Favorade,0.0,0.0,0.0
+Fear Dancer,0.0,0.0,0.0
+Fear FYI’r,1.0,0.0,1.0
+Fear Firewaller,0.0,0.0,0.0
+Fear Flusher,1.0,3.0,-2.0
+Fear Foxtrotter,0.0,0.0,0.0
+Fear Marshall,0.0,0.0,0.0
+Feelings Fantasizer,1.0,1.0,0.0
+Feelings Felicitizer,2.0,2.0,0.0
+Feelings Flipper,2.0,6.0,-4.0
+Finish Line Forgetter,5.0,0.0,5.0
+Forgiveness Flooder,0.0,1.0,-1.0
+Forgiveness Rusher,0.0,2.0,-2.0
+Foul Weather Friender,2.0,3.0,-1.0
+Free Will Generator,0.0,0.0,0.0
+Frenzy Freezer,1.0,3.0,-2.0
+Giverade ,1.0,0.0,1.0
+God Grounder,0.0,4.0,-4.0
+Good Will Gardener,0.0,1.0,-1.0
+Grace Moonlighter,0.0,4.0,-4.0
+Gratitude Baby Stepper,0.0,0.0,0.0
+Gratitude Flooder,0.0,0.0,0.0
+Gratitude Gardener,0.0,1.0,-1.0
+Gratitude Goosebumper,1.0,0.0,1.0
+Gratitude Grounder,0.0,0.0,0.0
+Gratitude Grower,2.0,1.0,1.0
+Gratitude Guru,0.0,3.0,-3.0
+Grave Trigger,2.0,4.0,-2.0
+Gremlin Greeter,1.0,0.0,1.0
+Grief Greeter,0.0,0.0,0.0
+Grinch Pincher,1.0,0.0,1.0
+Gripe Sniper,0.0,1.0,-1.0
+Growth Gardener,1.0,3.0,-2.0
+Guilt Refunder,1.0,0.0,1.0
+Guilt X’r,0.0,0.0,0.0
+Gut Gutter,1.0,2.0,-1.0
+Hardship Hacker,3.0,0.0,3.0
+Hardship Hugger,1.0,2.0,-1.0
+Healing #2,0.0,0.0,0.0
+Higher Power Invoker,0.0,1.0,-1.0
+Hope Harvester,2.0,1.0,1.0
+Hurt Hugger,1.0,0.0,1.0
+Hurtle Hugger,0.0,1.0,-1.0
+I-Can-ographer,2.0,8.0,-6.0
+I-Examiner,7.0,6.0,1.0
+I-Opener,0.0,0.0,0.0
+I-examiner - motivations,5.0,4.0,1.0
+I-examiner - reactions & behavior,5.0,8.0,-3.0
+Ill Feelings Illuminator,2.0,10.0,-8.0
+Illogical Looper,1.0,3.0,-2.0
+Imperfections TBH,0.0,1.0,-1.0
+Indignation Ionizer ,0.0,0.0,0.0
+Infinity Infuser,0.0,1.0,-1.0
+Inner Anointer,2.0,2.0,0.0
+Inner Child Smiler,0.0,0.0,0.0
+Inner Eye Opener,1.0,1.0,0.0
+Inner Forgiverizer,3.0,5.0,-2.0
+Inner Freedom Forager,8.0,5.0,3.0
+Inner Greatness Greeter,2.0,2.0,0.0
+Inner Guru Guarder,0.0,4.0,-4.0
+Inner I-Opener,5.0,1.0,4.0
+Inner Light Illuminator,6.0,1.0,5.0
+Inner Motor Motivator,7.0,5.0,2.0
+Inner Power Allower,4.0,8.0,-4.0
+Inner Soul X-Rayer,11.0,1.0,10.0
+Inner Sun Shiner,3.0,1.0,2.0
+Inner Trash Trasher,3.0,2.0,1.0
+Inner Wealth Welcomer,0.0,4.0,-4.0
+Inner Winner,7.0,4.0,3.0
+Insanity SOS’r,6.0,0.0,6.0
+Insight Inseminator,1.0,2.0,-1.0
+Instinct Interrogator,3.0,1.0,2.0
+Isolation SOS’r,1.0,0.0,1.0
+Jealousy Jolter,0.0,1.0,-1.0
+Jitters Junker,0.0,0.0,0.0
+Journey Jazzer,2.0,4.0,-2.0
+Joy Flooder,0.0,1.0,-1.0
+Joy Kickstarter,2.0,1.0,1.0
+Joy Sweetener,1.0,2.0,-1.0
+Judgment Jailer,1.0,0.0,1.0
+Judgment Junker,2.0,1.0,1.0
+Just One Justifier,3.0,0.0,3.0
+Killer Kickstarter,6.0,8.0,-2.0
+Kindness Karmifier,0.0,1.0,-1.0
+Kindness Kickstarter,0.0,1.0,-1.0
+Kindness Knitter,1.0,0.0,1.0
+Label Eraser,2.0,2.0,0.0
+Label Liberator,1.0,1.0,0.0
+Lack Hacker,1.0,1.0,0.0
+Lapse Lessenizer,0.0,1.0,-1.0
+Lapse Lessonizer,1.0,3.0,-2.0
+Lazy Zapper,5.0,4.0,1.0
+Little Hint Listener,5.0,2.0,3.0
+Little Win Welcomer,1.0,1.0,0.0
+Loneliness TLC’r,0.0,1.0,-1.0
+Lost Benefit Lamenter,13.0,1.0,12.0
+Love Flooder,1.0,1.0,0.0
+Love Kickstarter,1.0,0.0,1.0
+Love Sweetener,1.0,2.0,-1.0
+Low Vibration Lifter,2.0,2.0,0.0
+Magic Momentizer,0.0,0.0,0.0
+Manic Massager,0.0,2.0,-2.0
+Manic Moment Forgiver,1.0,0.0,1.0
+Melancholy Melter,2.0,0.0,2.0
+Memory Rinser,4.0,0.0,4.0
+Mentality Mender,8.0,4.0,4.0
+Metta Motivator,0.0,6.0,-6.0
+Mighty Motor Cranker,1.0,2.0,-1.0
+Miracle Embracer,2.0,2.0,0.0
+Misery Doctor,3.0,1.0,2.0
+Misery Minister,2.0,0.0,2.0
+Misery Miser,2.0,2.0,0.0
+Missi-Un-Impossiblizer ,0.0,2.0,-2.0
+Mistruster Duster,1.0,0.0,1.0
+Monkey Mind Cleanser,0.0,1.0,-1.0
+Moody MF’r,2.0,4.0,-2.0
+Moonlight Moonshooter,1.0,0.0,1.0
+Moonlight Motivator,2.0,0.0,2.0
+Motivation Moonbeamer ,0.0,5.0,-5.0
+Must Buster,0.0,1.0,-1.0
+My Badiator,1.0,2.0,-1.0
+NEW LIFE / POSSIBILITIES,4.0,9.0,-5.0
+NEW PATTERN PAINTER / admit & amends,2.0,3.0,-1.0
+NEW PATTERN PAINTER / motivations,7.0,3.0,4.0
+NEW PATTERN PAINTER / share & learn,6.0,4.0,2.0
+NEW PATTERN PAINTER / support groups,0.0,5.0,-5.0
+Negativity Negotiator,1.0,2.0,-1.0
+Negativity Ninja,0.0,2.0,-2.0
+Negativity Nuker,1.0,2.0,-1.0
+Nerve Ninja,1.0,2.0,-1.0
+NeuroTuner,2.0,2.0,0.0
+New Pattern Painter,3.0,3.0,0.0
+New Pattern Painter / confidence & awareness,5.0,9.0,-4.0
+New Pattern Painter / grit & progress,6.0,4.0,2.0
+Obstacle Oblivionizer,0.0,1.0,-1.0
+Obstacle Outfoxer,0.0,0.0,0.0
+Obstacle Smithereener,0.0,1.0,-1.0
+Old Belief Butcher,2.0,1.0,1.0
+Opportunity Oompher,2.0,4.0,-2.0
+Pain Abstainer,2.0,1.0,1.0
+Panic Mechanic,0.0,0.0,0.0
+Panic Patroller,0.0,0.0,0.0
+Panic X’r,1.0,0.0,1.0
+Past #2,2.0,0.0,2.0
+Pattern Interrupter,3.0,1.0,2.0
+Peace Flooder,0.0,1.0,-1.0
+Peace Kickstarter,0.0,0.0,0.0
+Peace Pollinator,0.0,2.0,-2.0
+Peace Sweetener,0.0,0.0,0.0
+Peace Weaver,1.0,1.0,0.0
+Perspective Detective,2.0,1.0,1.0
+Pink Cloud Clinger,1.0,3.0,-2.0
+Pity Policer,0.0,0.0,0.0
+Placid Reflux,4.0,9.0,-5.0
+Power Pooper,0.0,0.0,0.0
+Power Shower,0.0,0.0,0.0
+Powerholic Healer,1.0,2.0,-1.0
+Pride Polisher,2.0,0.0,2.0
+Pride Puffer,6.0,1.0,5.0
+Problem Doctor,0.0,1.0,-1.0
+Problem Primer,2.0,4.0,-2.0
+Problem SOS’r,0.0,0.0,0.0
+Problem Soul-ver,2.0,4.0,-2.0
+Progress Painter,3.0,6.0,-3.0
+Progress Pollinator,2.0,9.0,-7.0
+Qualm Quitter,1.0,3.0,-2.0
+Quarrel Quasher,1.0,1.0,0.0
+RAW SOUL REVEALER / costs,2.0,1.0,1.0
+RAW SOUL REVEALER / emotions & urges,3.0,3.0,0.0
+RAW SOUL REVEALER / past mistakes,7.0,1.0,6.0
+RAW SOUL REVEALER / thoughts,2.0,1.0,1.0
+RAW SOUL REVEALER / trust others,4.0,0.0,4.0
+RAW SOUL REVEALER / worthiness,3.0,0.0,3.0
+RELATIONSHIPS / Build connections & community,3.0,11.0,-8.0
+RELATIONSHIPS / Healthy & supportive,7.0,8.0,-1.0
+RELATIONSHIPS / Meetings & support,1.0,3.0,-2.0
+RELATIONSHIPS / Trust & vulnerability,3.0,2.0,1.0
+Rainbow Hunter,5.0,2.0,3.0
+Rationalization Rinser,4.0,3.0,1.0
+Reactions Auditor,4.0,9.0,-5.0
+Regret Refunder,1.0,0.0,1.0
+Relationship Dedamager,6.0,1.0,5.0
+Relationship Redeemer,9.0,3.0,6.0
+Responsibility 101’r,0.0,2.0,-2.0
+Responsibility Baby Stepper,3.0,1.0,2.0
+Responsibility Rebooter,2.0,2.0,0.0
+Responsibility Rinser,1.0,0.0,1.0
+Responsibility Rippler,0.0,2.0,-2.0
+SELF HARM / Self honesty & admit,4.0,4.0,0.0
+SELF HARM / Tools,3.0,6.0,-3.0
+SELF HARM / Warnings,4.0,4.0,0.0
+SELF HARM ALARMER / avoid triggers,7.0,6.0,1.0
+SELF HARM ALARMER / distance from people,1.0,1.0,0.0
+SELF HARM ALARMER / remove from situations,0.0,1.0,-1.0
+Sabotage SOS’r,4.0,1.0,3.0
+Scary Stepper,2.0,4.0,-2.0
+Self Awareness Awakener,7.0,3.0,4.0
+Self Control 101'r,4.0,10.0,-6.0
+Self Esteem Elixir,3.0,2.0,1.0
+Self Esteem Engineer,0.0,2.0,-2.0
+Self Harm Alarmer,0.0,2.0,-2.0
+Self Unscrewer,0.0,1.0,-1.0
+Self Worth Surfer,1.0,5.0,-4.0
+Self awareness / confidence to admit,4.0,5.0,-1.0
+Self awareness / habits & behavior,6.0,5.0,1.0
+Serenity Simulator,1.0,1.0,0.0
+Serenity Soulmater,3.0,3.0,0.0
+Shackle Shaker,0.0,0.0,0.0
+Shame X’r,1.0,0.0,1.0
+Shamenesia,1.0,0.0,1.0
+Shamepooper Scooper,0.0,0.0,0.0
+Should Shover,1.0,0.0,1.0
+Situation Detacher,0.0,0.0,0.0
+Situation Unscrewer,0.0,4.0,-4.0
+So Sorry Soother,0.0,0.0,0.0
+Sober Milestoner,1.0,4.0,-3.0
+Sober Selfie,2.0,4.0,-2.0
+Sobriety 101'r,5.0,4.0,1.0
+Sobriety SOB’r,2.0,0.0,2.0
+Sobriety SOS’r,1.0,5.0,-4.0
+Sobriety Soulmater,6.0,3.0,3.0
+Soul Controller,3.0,3.0,0.0
+Soul Practitioner,0.0,1.0,-1.0
+Soul Proprietor,1.0,2.0,-1.0
+Soul Surgeon,3.0,1.0,2.0
+Soul Survivor,1.0,2.0,-1.0
+Soul Synchronizer,0.0,4.0,-4.0
+Soul Tuner,4.0,1.0,3.0
+Soul-itude ,1.0,0.0,1.0
+Soul-ution Finder,0.0,3.0,-3.0
+Soul-vation ,1.0,2.0,-1.0
+Spiritual Conquest-ador,2.0,2.0,0.0
+Stigma Stigmatizer,1.0,2.0,-1.0
+Stigma Striker,0.0,3.0,-3.0
+Stress Auditor,0.0,2.0,-2.0
+Stress Striker,0.0,1.0,-1.0
+Stress X’r,0.0,1.0,-1.0
+Summer Soulstace,0.0,1.0,-1.0
+Symbolic Stepper,3.0,7.0,-4.0
+THOUGHTS / aware & examine,4.0,3.0,1.0
+THOUGHTS / positivity,3.0,8.0,-5.0
+Temperance Tester,4.0,1.0,3.0
+Tender Feelings TBH’r,2.0,1.0,1.0
+The Aggrava-shunner,1.0,0.0,1.0
+The Benefisher,0.0,4.0,-4.0
+The Blessifier,3.0,4.0,-1.0
+The Blocksmither,0.0,1.0,-1.0
+The Control-aholic,1.0,1.0,0.0
+The De-craverizer,0.0,1.0,-1.0
+The De-stress-calator,0.0,5.0,-5.0
+The De-urgifier ,0.0,0.0,0.0
+The Debinger,1.0,2.0,-1.0
+The Deblamer,1.0,1.0,0.0
+The Defuriator,1.0,1.0,0.0
+The Depre-shunner,0.0,1.0,-1.0
+The Deshamer,2.0,0.0,2.0
+The Destigmatizer,2.0,0.0,2.0
+The Dynamotivator,3.0,8.0,-5.0
+The Empathologist,3.0,4.0,-1.0
+The First Amender,1.0,3.0,-2.0
+The Flawbreaker,0.0,2.0,-2.0
+The Hopenotizer,0.0,2.0,-2.0
+The Indigna-Shunner ,0.0,0.0,0.0
+The Irrita-shunner,0.0,1.0,-1.0
+The Mindfulizer,6.0,1.0,5.0
+The Momentumizer ,1.0,3.0,-2.0
+The Nicebreaker,0.0,0.0,0.0
+The Procrastina-shunner,5.0,3.0,2.0
+The Soulutionizer,0.0,2.0,-2.0
+The Successcalator,1.0,3.0,-2.0
+The Wellectrifier,1.0,1.0,0.0
+The Wellifier ,0.0,2.0,-2.0
+Thought Auditor,0.0,3.0,-3.0
+Thy Will Be Doner,0.0,4.0,-4.0
+Torment Terminator,7.0,4.0,3.0
+Trigger Auditor,3.0,0.0,3.0
+Trigger SOS’r,2.0,2.0,0.0
+Trigger Transformer,1.0,2.0,-1.0
+Trigger Trespasser,4.0,1.0,3.0
+Trigger X’r,2.0,2.0,0.0
+Triggers 101'r,1.0,2.0,-1.0
+Trouble Elixir,0.0,0.0,0.0
+Troubles TBH’r,0.0,2.0,-2.0
+Urge Auditor,2.0,2.0,0.0
+Urge Namerizer,1.0,1.0,0.0
+Urge Purger,3.0,0.0,3.0
+Urge X’r,2.0,2.0,0.0
+VULNERABILITY / Radical self honesty,6.0,5.0,1.0
+VULNERABILITY / admit,2.0,5.0,-3.0
+VULNERABILITY / connections,4.0,4.0,0.0
+VULNERABILITY / give and receive,0.0,1.0,-1.0
+VULNERABILITY / listen to others,3.0,6.0,-3.0
+VULNERABILITY / mistakes & learning,4.0,6.0,-2.0
+VULNERABILITY / reach out for help,4.0,7.0,-3.0
+VULNERABILITY / share challenges,1.0,3.0,-2.0
+VULNERABILITY / share emotions,2.0,0.0,2.0
+VULNERABILITY / share relapse ,0.0,1.0,-1.0
+VULNERABILITY / share with god,0.0,1.0,-1.0
+VULNERABILITY / support from others,10.0,6.0,4.0
+Values VIP’r,4.0,4.0,0.0
+Venom Vaporizer,4.0,0.0,4.0
+Vexation Vacationer,0.0,0.0,0.0
+Victim Vaccinator,0.0,0.0,0.0
+Victim Vanquisher,1.0,0.0,1.0
+Victimhood Veto’r,0.0,0.0,0.0
+Void Avoider,4.0,5.0,-1.0
+WAIT AND SWITCH / Emotions,5.0,4.0,1.0
+WAIT AND SWITCH / Progress,7.0,7.0,0.0
+WAIT AND SWITCH / Small steps,8.0,5.0,3.0
+Wellectricity Generator,0.0,2.0,-2.0
+Whole Soul Healer,4.0,3.0,1.0
+Worry POW’r,0.0,0.0,0.0
+Worry Washer,0.0,1.0,-1.0
+Worthiness Whisperer,3.0,1.0,2.0
+Worthy Soul’r,2.0,7.0,-5.0
+Wrong Righter,0.0,2.0,-2.0
+frust,0.0,0.0,0.0
