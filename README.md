@@ -12,10 +12,11 @@ Note that High frequent functional words are not indicative, thus in .*_filted.c
 #### [x] Can we determine from the written content how much of the problems explored are related to self? Other people? Circumstance?
 POS doesn't differ myself, herself... only present tense third person. However, Raw/W-fdist_Top30-gender.csv answers the question to some extent.
 
-#### [ ] Especially interested to know if there are any Big Insights to discover when comparing Food addictions to Drug/Alcohol addictions.
+#### [x] Especially interested to know if there are any Big Insights to discover when comparing Food addictions to Drug/Alcohol addictions.
 
+Only female has FOOD problem, more comparasion listed in Cluster RAW.ipynb
 
-#### [ ] Also especially interested in clusters that are not obvious to the human eye. What combinations of words, categories, patterns are you finding? Things a human might never have thought to ask?
+#### [x] Also especially interested in clusters that are not obvious to the human eye. What combinations of words, categories, patterns are you finding? Things a human might never have thought to ask?
 
 See Cluster.ipynb file, comments are made below each plot.
 
@@ -33,8 +34,9 @@ Male: Focus more on past, and self ==> Suffer, past
 
 Female: Focus more on present and others ==> Hope, future
     
-#### [ ] We humans discovered 209 categories. What additional categories can we discover from the written answers using NLP?  
-Categories are sometime abstract, topic modelling algorithms can’t generate something that’s not inside the expression.
+#### [x] We humans discovered 209 categories. What additional categories can we discover from the written answers using NLP?  
+
+Categories are sometime abstract, topic modelling algorithms can’t generate something that’s not inside the expression. There's topics learned by LDA topic modeling algorithm in Cluster RAW.ipynb
 
 #### [x] Any insights about past, present or future focus on their language?
 
