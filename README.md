@@ -45,7 +45,9 @@ Male: Focus more on past, and self ==> Suffer, past
 Female: Focus more on present and others ==> Hope, future
 
 
-#### [ ] Any insights about willpower and motivation in their language?
+#### [x] Any insights about willpower and motivation in their language?
+
+Couldn't find practical solution. Tried word embeddings but didn't achieve good result.
 
 ### Basic statistical analysis of categories & Wellgorithms:
 
